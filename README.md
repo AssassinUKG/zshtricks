@@ -27,3 +27,6 @@ Use the command to run a long running task and send a notification to the deskto
 nmap -v 192.168.1.1 ; runNotifyJob nmap
 ```
 
+## Screenshot
+
+![](Capture.PNG)
